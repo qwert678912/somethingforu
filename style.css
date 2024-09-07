@@ -64,13 +64,23 @@ img {
 }
 
 p {
-  font-family: 'Zeyada';
+  font-family: 'Georgia';
   font-size: 50px;
   color: rgb(0, 0, 0);
   opacity: 0.75;
   user-select: none;
   font-weight: 900;
-  text-decoration: underline;
   
+  
+  
+}
+.p{
+  font-family: 'Georgia';
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  opacity: 0.75;
+  user-select: none;
+  font-weight: 900;
+ 
   
 }
